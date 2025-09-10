@@ -1,13 +1,12 @@
 # 👋 Hi, I'm Vitali
 
-🎨 **Front-End Web Developer** | 💻 Passionate about building clean, responsive, and user-friendly website experiences.  
+🎨 **Front-End Web Developer** | 💻 Passionate about building clean, responsive, and user-friendly websites.  
 
 ---
 
 ## 🚀 About Me  
-- 🌱 Currently learning **WordPress and Bootstrap**  
-- 💡 Interested in **interactive websites**  
-- 🛠 Skilled in **JavaScript, PHP, and WordPress theme development**  
+- 🌱 Always learning ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white) **WordPress and ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) Bootstrap**  
+- 🛠 Skilled in ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) **JavaScript, ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) PHP, and ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white) WordPress theme development**  
 - 🎯 Goal: Contribute to **open-source projects** and grow as a **front-end web developer**  
 - ⚡ Fun fact: I love solving coding challenges and experimenting with new front-end frameworks  
 
@@ -22,14 +21,12 @@
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 
 **Frameworks & Libraries:**  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)  
-![AOS](https://img.shields.io/badge/-Animate%20On%20Scroll-000000?style=flat&logo=javascript&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)    
 ![Bulma](https://img.shields.io/badge/-Bulma-00D1B2?style=flat&logo=bulma&logoColor=white) 
 
 **Tools & Platforms:**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) 
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) 
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)  
 
 ---

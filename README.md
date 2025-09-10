@@ -33,7 +33,7 @@
 
 ## 🌐 Let's Connect  
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://github.com/vitali-melamed)      
+[![Portfolio]](https://vitali.dev)      
 
 ---
 

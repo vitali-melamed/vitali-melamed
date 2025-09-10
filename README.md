@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vitali
+# Hi, I'm Vitali
 
 Front end web developer | Passionate about building clean, responsive, and user friendly websites.  
 

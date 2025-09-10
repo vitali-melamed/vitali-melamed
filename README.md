@@ -1,34 +1,32 @@
 # 👋 Hi, I'm Vitali
 
-🎨 **Front-End Web Developer** | 💻 Passionate about building clean, responsive, and user-friendly websites.  
+Front end web developer | Passionate about building clean, responsive, and user friendly websites.  
 
 ---
 
-## 🚀 About Me  
-- 🌱 Always learning ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)  
-- 🛠 Skilled in ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white) theme development  
-- 🎯 Goal: Contribute to **open-source projects** and grow as a **front-end web developer**  
-- ⚡ Fun fact: I love solving coding challenges and experimenting with new front-end frameworks  
+## About Me  
+Always learning WordPress and Bootstrap 
+Skilled in JavaScript, PHP, WordPress theme development  
+Goal: Contribute to open source projects and grow as a front end web developer  
+Fun fact: I love solving coding challenges and experimenting with new front end frameworks  
+
+--- 
+
+## Languages 
+HTML5
+CSS3
+JavaScript
+PHP
+
+## Frameworks and Libraries  
+Bootstrap    
+Bulma
+
+## Tools and Platforms  
+Git
+GitHub 
+WordPress     
 
 ---
 
-## 🧰 Tech Stack  
-
-**Languages:**  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-
-**Frameworks & Libraries:**  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)    
-![Bulma](https://img.shields.io/badge/-Bulma-00D1B2?style=flat&logo=bulma&logoColor=white) 
-
-**Tools & Platforms:**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)       
-
----
-
-✨ _“Code is like humour. When you have to explain it, it’s bad.”_
+Code is like humour. When you have to explain it, it’s bad.

@@ -1,25 +1,22 @@
 # Hi, I'm Vitali
 
-Front end web developer | Passionate about building clean, responsive, and user friendly websites.  
-
----
-
 ## About Me  
-Always learning WordPress and Bootstrap. Skilled in JavaScript, PHP, WordPress theme development. Contribute to open source projects and grow as a front end web developer. I love solving coding challenges and experimenting with new front end frameworks.
+I'm an enthusiastic front end web developer with a solid foundation in web development and a growing track record of practical experience. Since beginning my journey in 2019, I continue to sharpen my skills through self directed learning. I specialise in building responsive, user friendly websites using modern technologies. I'm passionate about delivering clean, functional websites and continuously expanding my technical tools to stay current with industry best practices.
 
---- 
+### Languages 
+- HTML
+- CSS
+- SCSS
+- JavaScript
+- PHP
 
-## Languages 
-HTML5, CSS3, JavaScript, PHP
+#### Frameworks and Libraries  
+- Bootstrap
+- Bulma
 
-## Frameworks and Libraries  
-Bootstrap, Bulma
-
-## Tools and Platforms  
-Git, GitHub, WordPress
-
----
-
-Code is like humour. When you have to explain it, it’s bad.
+##### Tools and Platforms  
+- Git
+- GitHub
+- WordPress
 
 [Visit my portfolio](https://vitali.dev)
